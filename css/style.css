@@ -2,10 +2,13 @@
   width: 100%;
   height: auto;
   background-color: #f3eeea !important;
+  text-decoration: none;
 }
+
 
 .body{
  background-color: #f3eeea !important;
+ text-decoration: none !important;
 }
 
 .header{
@@ -22,6 +25,7 @@
   background-color: #d4bfba;
   overflow: hidden !important;
   padding-left: 240px;
+  text-decoration: none;
 }
 
 /* Style the links inside the navigation bar */
@@ -31,10 +35,13 @@
   padding-top: 14px;
   padding-bottom: 16px;
   padding-left: 100px;
-  text-decoration: none !important;
   font-size: 17px;
+  text-decoration: none !important;
 }
 
+.topnav a:hover {
+  color: #724e52;
+}
 
 /* Add a color to the active/current link */
 .topnav a.active {
@@ -102,7 +109,7 @@ p {
 }
 
 .buy .subtitle {
-	font-size:20px;
+	font-size:24px;
 	color:black;
 	padding-top: 30px;
 	padding-bottom: 10px;
