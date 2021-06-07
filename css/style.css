@@ -61,10 +61,10 @@ p {
 	 background-color: #f3eeea !important;
 }
 .feedback .title {
-	font-size:30px;
+	font-size:40px;
 	font-weight: bold;
 	color: #724E52;
-	padding-top: 50px;
+	padding-top: 80px;
 	padding-bottom: 15px;
 }
 
@@ -101,15 +101,15 @@ p {
 	 background-color: #f3eeea !important;
 }
 .buy .title {
-	font-size:30px;
+	font-size:40px;
 	font-weight: bold;
 	color: #724E52;
-	padding-top: 30px;
+	padding-top: 60px;
 	padding-bottom: 10px;
 }
 
 .buy .subtitle {
-	font-size:24px;
+	font-size:30px;
 	color:black;
 	padding-top: 30px;
 	padding-bottom: 10px;
